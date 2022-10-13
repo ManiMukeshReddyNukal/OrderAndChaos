@@ -1,11 +1,9 @@
-"# OrderAndChaos" 
-
-
-
+# CS611-ASSIGNMENT 1
 ## Tic Tac Toe and other variants
 ---------------------------------------------------------------------------
 Mani Mukesh Reddy Nukal
-\
+nmani@bu.edu
+U44103738
 
 ## Files
 ---------------------------------------------------------------------------
